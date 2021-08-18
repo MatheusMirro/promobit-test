@@ -1,10 +1,10 @@
 {
-  "name": "my-tcc",
+  "name": "promobit-movies",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && vercel",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
